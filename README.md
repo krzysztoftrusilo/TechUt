@@ -1,1 +1,1 @@
-# TechUt
+Krzysztof Trusiło
