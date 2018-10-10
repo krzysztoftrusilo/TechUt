@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ktrusilo
- *
- */
-module helloworld {
-}
