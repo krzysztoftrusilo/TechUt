@@ -1,1 +1,1 @@
-Odpalanie serwera i klienta db przez terminal.
+Prosty CRUD dla szaf.
