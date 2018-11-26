@@ -1,0 +1,1 @@
+Interface + bardziej z³o¿one prepareStmt.
