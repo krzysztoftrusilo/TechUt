@@ -1,0 +1,1 @@
+Struktura bazy danych dla domeny szafa.
