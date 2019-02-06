@@ -1,1 +1,0 @@
-Zadanie Fina³owe Hibernate
